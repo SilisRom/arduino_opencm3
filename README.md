@@ -61,4 +61,4 @@ This repository is a testbed for combining the libopencm3 libray with Arduino ID
 `30 June 2016 ` **[ Initial release ]** 
 
 * Added core files from official Arduino core
-* `wiring_digital.c` Added **pinMode()** , **digitalRead()** , **digitalWrite()** and **togglePin()** functions.
+* `wiring_digital.c` Added **pinMode()** , **digitalRead()** , **digitalWrite()** and **togglePin()** functions..
